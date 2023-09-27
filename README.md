@@ -12,7 +12,7 @@ I'm a passionate Computer Science enthusiast, eager to explore the realms of tec
 ### Portfolio Highlights
 
 - [Online Planning in MDPs Using Monte Carlo Simulations](https://github.com/JonathonMitchellCode/Online-Planning-in-MDPs-Using-Monte-Carlo-Simulations): Implemented MCTS to master Tic Tac Toe strategies, showcasing AI-driven decision-making.
-- [Stock Price Prediction Web Application]([https://github.com/JonathonMitchellCode/Online-Planning-in-MDPs-Using-Monte-Carlo-Simulations](https://github.com/JonathonMitchellCode/Stock-Prediction-Web-App)): Currently implementing a stock price prediction web application using machine learning. Tech stack involved: JupyterLabs, Python, JavaScript, React, Node, Express, AWS.
+- [Stock Price Prediction Web Application](https://github.com/JonathonMitchellCode/Stock-Prediction-Web-App): Currently implementing a stock price prediction web application using machine learning. Tech stack involved: JupyterLabs, Python, JavaScript, React, Node, Express, AWS.
 
 
 ### Get in Touch
