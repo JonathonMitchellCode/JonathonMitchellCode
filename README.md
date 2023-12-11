@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathon Mitchell 👋
 
-I'm a passionate Computer Science enthusiast, eager to explore the realms of technology and innovation. With a solid foundation in coding, problem-solving, and an inherent curiosity, I'm dedicated to crafting efficient solutions and contributing to the world of software.
+I'm a passionate Junior Software Developer, eager to explore the realms of technology and innovation. With a solid foundation in coding, problem-solving, and an inherent curiosity, I'm dedicated to crafting efficient solutions and contributing to the world of software.
 
 - 🔭 I’m currently honing my skills in software development through personal projects and continuous learning.
 - 🌱 I love diving into algorithms and exploring their applications in real-world scenarios.
