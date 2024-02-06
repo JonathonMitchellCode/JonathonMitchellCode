@@ -1,25 +1,15 @@
-### Hi there, I'm Jonathon Mitchell 👋
-
-I'm a passionate Junior Software Developer, eager to explore the realms of technology and innovation. With a solid foundation in coding, problem-solving, and an inherent curiosity, I'm dedicated to crafting efficient solutions and contributing to the world of software.
-
-- 🔭 I’m currently honing my skills in software development through personal projects and continuous learning.
-- 🌱 I love diving into algorithms and exploring their applications in real-world scenarios.
-- 👯 I'm always excited to collaborate on coding challenges, open-source projects, and creative tech ideas.
-- 📚 Graduated in Computer Science from Lancaster University, where I gained expertise in Java, C and Python, and completed a comprehensive project on "Online Planning in MDPs Using Monte Carlo Simulations".
-- 💬 Let's talk about anything whether it's AI, web development, or anything tech-related!
-- ⚡ Fun fact: I'm an avid cook in my free time.
-
-### Portfolio Highlights
-
-- [Online Planning in MDPs Using Monte Carlo Simulations](https://github.com/JonathonMitchellCode/Online-Planning-in-MDPs-Using-Monte-Carlo-Simulations): Implemented MCTS to master Tic Tac Toe strategies, showcasing AI-driven decision-making.
-- [Stock Price Prediction Web Application](https://github.com/JonathonMitchellCode/Stock-Prediction-Web-App): Currently implementing a stock price prediction web application using machine learning. Tech stack involved: JupyterLabs, Python, JavaScript, React, Node, Express, AWS.
+# 💫 About Me:
+🔭 I’m currently honing my skills in software development through personal projects and continuous learning.<br>🌱 I love diving into algorithms and exploring their applications in real-world scenarios.<br>👯 I'm always excited to collaborate on coding challenges, open-source projects, and creative tech ideas.<br>📚 Graduated in Computer Science from Lancaster University, where I gained expertise in Java, C and Python, and completed a comprehensive research project: "Online Planning in MDPs Using Monte Carlo Simulations".<br>💬 Let's talk about anything whether it's AI, web development, or anything tech-related!<br>⚡ Fun fact: I'm an avid cook in my free time.
 
 
-### Get in Touch
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathonmitchell20) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/JonathonCodes) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CodingJonathon) 
 
-📫 Feel free to reach out:
-- [LinkedIn](https://www.linkedin.com/in/jonathonmitchell20/)
-- Email: jonathonwork20@gmail.com
-- Phone: (+44) 7956 400622
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-Let's connect and dive into the exciting world of code and innovation together! 🚀
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=JonathonMitchellCode&icon=5&color=1)](https://visitcount.itsvg.in)
